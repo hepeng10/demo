@@ -1,0 +1,18 @@
+{
+  "name": "some-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "curl.js",
+  "dependencies": {
+    "alidayu-node": "^1.0.3",
+    "node-xlsx": "^0.7.2",
+    "nodemailer": "^2.5.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tirion",
+  "license": "MIT"
+}
